@@ -1,6 +1,3 @@
-from click import prompt
-from speechd_config import question
-
 filepath = '/home/vboxuser/files-and-exceptions/txts/responses.txt'
 flag = True
 
