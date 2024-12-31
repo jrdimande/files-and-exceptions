@@ -1,6 +1,6 @@
 import json
 
-filename = 'favorite_number.json'
+filename = '../json/favorite_number.json'
 
 try:
     with open(filename) as f:

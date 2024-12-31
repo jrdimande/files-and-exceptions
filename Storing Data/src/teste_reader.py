@@ -1,6 +1,6 @@
 import json
 
-filename = 'teste.json'
+filename = '../json/teste.json'
 
 with open(filename) as f:
     content = json.load(f)

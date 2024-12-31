@@ -1,6 +1,6 @@
 import json
 
-filename = 'teste.json'
+filename = '../json/teste.json'
 info = {'user' : {}}
 
 info['user']['name'] = 'ian'
