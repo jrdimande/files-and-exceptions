@@ -1,5 +1,5 @@
 import json
-filename = 'users.json'
+filename = '../json/users.json'
 data = {'users': []}
 
 
