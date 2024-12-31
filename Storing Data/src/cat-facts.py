@@ -6,6 +6,13 @@ response = requests.get(url)
 
 facts = response.json()
 
-with open ('../json/facts.json', 'w') as f:
+with open ('../json/facts.json', 'a') as f:
     json.dump(facts, f, indent=4)
     print('Done!')
+
+
+
+
+
+
+
