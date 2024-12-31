@@ -1,4 +1,4 @@
-filepath = '/home/vboxuser/files-and-exceptions/txts/guest.txt'
+filepath = '/files-handling/txts/guest.txt'
 
 name = input('Enter your name: ')
 

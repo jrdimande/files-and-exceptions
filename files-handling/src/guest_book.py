@@ -1,4 +1,4 @@
-filepath = '/home/vboxuser/files-and-exceptions/txts/guest_book.txt'
+filepath = '/files-handling/txts/guest_book.txt'
 flag = True
 
 

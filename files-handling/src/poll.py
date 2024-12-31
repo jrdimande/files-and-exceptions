@@ -1,4 +1,4 @@
-filepath = '/home/vboxuser/files-and-exceptions/txts/responses.txt'
+filepath = '/files-handling/txts/responses.txt'
 flag = True
 
 while flag:
