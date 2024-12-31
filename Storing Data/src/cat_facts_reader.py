@@ -1,6 +1,6 @@
 import json
 
-filename = '/home/vboxuser/files-and-exceptions/Storing Data/json/cat-facts.json'
+filename = '/Storing Data/json/cat_facts.json'
 
 try:
     with open(filename, 'r') as f:
