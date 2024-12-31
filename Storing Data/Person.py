@@ -11,8 +11,6 @@ phone_number = int(input("Enter your phone number: "))
 
 person['name'] = name
 person['age'] = age
-
-
 person['heigth'] = heigth
 person['phone_number'] = phone_number
 
