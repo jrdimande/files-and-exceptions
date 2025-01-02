@@ -1,6 +1,6 @@
 import json
 
-filename = '../json/personInfo.json'
+filename = 'json/personInfo.json'
 
 person = {}
 

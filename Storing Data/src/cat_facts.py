@@ -1,7 +1,7 @@
 import json
 import requests
 
-filename = '/home/vboxuser/files-and-exceptions/Storing Data/json/cat_facts.json'
+filename = '/Storing Data/src/json/cat_facts.json'
 
 url = 'https://meowfacts.herokuapp.com'
 response = requests.get(url)

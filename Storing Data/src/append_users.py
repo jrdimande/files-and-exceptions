@@ -3,7 +3,7 @@ import json
 import math
 
 
-filename = '../json/users.json'
+filename = 'json/users.json'
 
 with open(filename) as f:
     content = json.load(f)
